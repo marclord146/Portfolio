@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: Centra;
+  src: url('./font/CentraNo2-Bold-BF646c26904e7ce.ttf') format('truetype');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Centra;
+  src: url('./font/CentraNo2-Medium-BF646c26901ce01.ttf') format('truetype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Centra;
+  src: url('./font/CentraNo2-Book-BF646c2690591ba.ttf') format('truetype');
+  font-weight: 300;
+}
+
+
